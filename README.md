@@ -2,7 +2,7 @@
 
 <img width="400" alt="Nicola Matera" src="NicolaMatera.webp" />
 
-<br><br>
+
 ### What I Do: 
 
 I design and develop digital solutions built around the user. 
