@@ -1,8 +1,8 @@
 ## Hello World, I'm Nicola Matera 👋
 
-<img src="https://github.com/user-attachments/assets/f0d7b4e6-d367-497b-8dc4-9341858d73b9" width="400" alt="Immagine di Nicola Matera">
-<br><br>
+<img width="400" alt="Gemini_Generated_Image_lrb7irlrb7irlrb7" src="https://github.com/user-attachments/assets/08f31953-d633-4668-92e9-1dac8028caed" />
 
+<br><br>
 ### What I Do: 
 
 I design and develop digital solutions built around the user. 
