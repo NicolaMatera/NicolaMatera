@@ -1,4 +1,5 @@
 ## Hello World, I'm Nicola Matera 👋
+
 <img src="https://github.com/user-attachments/assets/f0d7b4e6-d367-497b-8dc4-9341858d73b9" width="400" alt="Immagine di Nicola Matera">
 <br><br>
 
