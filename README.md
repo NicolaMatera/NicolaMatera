@@ -1,6 +1,6 @@
 ## Hello World, I'm Nicola Matera 👋
 
-<img width="400" alt="Gemini_Generated_Image_lrb7irlrb7irlrb7" src="https://github.com/user-attachments/assets/08f31953-d633-4668-92e9-1dac8028caed" />
+<img width="400" alt="Nicola Matera" src="NicolaMatera.webp" />
 
 <br><br>
 ### What I Do: 
